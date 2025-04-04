@@ -42,5 +42,5 @@ Each row represents a transaction, and each column represents an item.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOHAMEDIA/Market-Basket-analysis-Apriori.git
+   git clone https://github.com/YoHa2024NKU/Market-Basket-analysis-Apriori.git
    cd Market-Basket-analysis-Apriori

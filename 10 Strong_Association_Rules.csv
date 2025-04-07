@@ -1,0 +1,11 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift
+"({Dollar Monthly Home Magazine, Fabulous Orange Juice})","({High Quality Silver Cleaner, Fast Corn Chips})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Akron City Map, Cutting Edge Potato Salad, PigTail Beef TV Dinner})","({Carlson Sharp Cheddar Cheese, Pleasant Rice Soup})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Carlson Sharp Cheddar Cheese, PigTail Beef TV Dinner, Akron City Map})","({Cutting Edge Potato Salad, Pleasant Rice Soup})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Akron City Map, Cutting Edge Potato Salad, Pleasant Rice Soup})","({Carlson Sharp Cheddar Cheese, PigTail Beef TV Dinner})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Cutting Edge Potato Salad, Carlson Sharp Cheddar Cheese, Pleasant Rice Soup})","({Akron City Map, PigTail Beef TV Dinner})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Cutting Edge Potato Salad, PigTail Beef TV Dinner, Pleasant Rice Soup})","({Akron City Map, Carlson Sharp Cheddar Cheese})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Carlson Sharp Cheddar Cheese, Pleasant Rice Soup})","({Akron City Map, PigTail Beef TV Dinner})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Carlson Sharp Cheddar Cheese, PigTail Beef TV Dinner})","({Akron City Map, Pleasant Rice Soup})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Akron City Map, Pleasant Rice Soup})","({Carlson Sharp Cheddar Cheese, PigTail Beef TV Dinner})",0.000117405,0.000117405,0.000117405,1,8517.5
+"({Akron City Map, PigTail Beef TV Dinner})","({Carlson Sharp Cheddar Cheese, Pleasant Rice Soup})",0.000117405,0.000117405,0.000117405,1,8517.5
